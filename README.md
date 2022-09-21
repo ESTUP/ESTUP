@@ -9,6 +9,7 @@ Python, shell and Ansible are on top of my toolbox.
   - WebServers (Nginx, Apache HTTPD)
   - Linux (RHEL and its derivatives primarily)
   - Cloud Computing (AWS, GCP, OCI)
+  - Containers (Podman, Docker)
   - Gitlab
   - AWX
 - Automation
