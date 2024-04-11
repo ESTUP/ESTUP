@@ -22,4 +22,5 @@ Python, shell and Ansible are on top of my toolbox.
   - OpenWRT
 
 ## 💌 Get in touch
-- Twitter: [@ESTUP](https://twitter.com/ESTUP)
+- Twitter: [@ESTUP](https://twitter.com/ESTUP) [@357up](https://twitter.com/357up)
+- [LinkedIn](https://www.linkedin.com/in/viesturs-eihentals/)
