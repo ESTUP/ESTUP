@@ -1,23 +1,24 @@
 # 👋  Hi, I am Viesturs Eihentals - @ESTUP
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ESTUP)
 
-I am a _DevOps engeneer_ and Open Source enthusiast from _Riga, Latvia_ working at [UniWeb, SIA](https://uniweb.eu/) as __Sr. System Administrator__.
+I am an Open Source enthusiast from _Riga, Latvia_ working at [SAF Tehnika](https://www.saftehnika.com/) as __DevOps engeneer__.
 Python, shell and Ansible are on top of my toolbox.
 
 ## ✨ My Expertise
 - DevOps
-  - WebServers (Nginx, Apache HTTPD)
+  - CI/CD (Gitlab CI/CD, ArgoCD, Jenkins, AWX)
   - Linux (RHEL and its derivatives primarily)
   - Cloud Computing (AWS, GCP, OCI)
-  - Containers (Podman, Docker)
-  - Gitlab
-  - AWX
+  - Containers (k8s, Podman, Docker)
+  - Virtualisation (KVM, VMware, Harvester)
+  - IaC
 - Automation
   - Ansible
   - Python
   - Shell
 - Networking
   - Mikrotik
+  - Cisco
   - OpenWRT
 
 ## 💌 Get in touch
