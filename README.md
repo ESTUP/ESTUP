@@ -1,4 +1,4 @@
-# 👋  Hi, I am Viesturs Eihentals - @ESTUP
+# 👋  Hi, I am Viesturs Eihentals - @ESTUP [@357up](https://github.com/357up)
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ESTUP)
 
 I am an Open Source enthusiast from _Riga, Latvia_ working at [SAF Tehnika](https://www.saftehnika.com/) as __DevOps engeneer__.
